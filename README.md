@@ -41,7 +41,7 @@
 1. SQL_sys로 계정을 생성한다.
 2. SQL_create_insert를 실행시켜 더미데이터를 넣는다.
 3.
-- ID : USER1@naver.com
+- ID : USER1\@naver.com
 - PW : 1231
 
 으로 로그인 후 테스트 할 수있다.
