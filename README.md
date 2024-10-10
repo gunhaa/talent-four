@@ -31,7 +31,7 @@
 ![image](https://github.com/user-attachments/assets/3ec6e251-9c88-4437-b85f-ea14a456ae9a)
 
 ### 8. 마이페이지 - 리뷰
-![image](https://github.com/user-attachments/assets/bc0600c0-ed23-4eb7-9d11-e9c28177c697)
+![image](https://github.com/user-attachments/assets/00f455f4-5091-41ab-a54e-4e754bb29d65)
 
 ### 9. 채팅하기
 ![image](https://github.com/user-attachments/assets/4496aaa7-4170-4c9e-9bbb-0bcb1e8ee9f2)
