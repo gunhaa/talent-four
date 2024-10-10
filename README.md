@@ -7,6 +7,11 @@
 
 - 담당 부분만 : [클릭](https://www.canva.com/design/DAGSTTG-nPo/AHVVlHunGY22Zu65qhQDYA/view?utm_content=DAGSTTG-nPo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+## 기술 스택
+
+`JAVA` `Javascript` `Servlet` `JSP` `JQuery` `HTML` `CSS` `Oracle SQL` `Apache Tomcat` 
+
+
 ## 담당 부분 미리보기
 
 ### 1. 로그인
