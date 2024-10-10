@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/46f0e495-c53e-48be-897b-9279165c91b9)
+
 # 재능을 사고파는 재능마켓 재능사조
 
 ## 프로젝트 설명 링크
