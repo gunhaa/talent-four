@@ -38,8 +38,10 @@
 
 ## 테스트 방법
 
-1. SQL_sys_create_insert를 실행시킨다
-2. 로 로그인 후 테스트 할 수있다.
+1. SQL_sys로 계정을 생성한다.
+2. SQL_create_insert를 실행시켜 더미데이터를 넣는다.
+3.
+- ID : USER1@naver.com
+- PW : 1231
 
-
-## 테스트 방법
+으로 로그인 후 테스트 할 수있다.
