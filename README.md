@@ -11,6 +11,10 @@
 
 `JAVA` `Javascript` `Servlet` `JSP` `JQuery` `HTML` `CSS` `Oracle SQL` `Apache Tomcat` 
 
+## 시스템 아키텍처
+
+![image](https://github.com/user-attachments/assets/0ed22d6f-227a-4f4b-924a-5522ed5d67fd)
+
 
 ## 담당 부분 미리보기
 
